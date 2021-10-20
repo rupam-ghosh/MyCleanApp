@@ -1,0 +1,7 @@
+include ':data'
+include ':domain'
+include ':mylibrary'
+include ':domain'
+include ':data'
+include ':app'
+rootProject.name = "MyCleanApp"
